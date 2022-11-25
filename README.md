@@ -4,15 +4,11 @@ Created with CodeSandbox
 
 ## 概要
 
--- ReactやVue等を使うために知っておきたいモダンJSの基本
-
--- モダンJavaScriptの機能に触れる
-
--- 素のJavaScriptだけでアプリケーションを作ってみる
-
--- Reactの基本について学ぶ
-
--- Reactでアプリケーションを作ってみる
+1. ReactやVue等を使うために知っておきたいモダンJSの基本
+1. モダンJavaScriptの機能に触れる
+1. 素のJavaScriptだけでアプリケーションを作ってみる
+1. Reactの基本について学ぶ
+1. Reactでアプリケーションを作ってみる
 
 モダンJSの概念を理解→JSの機能理解→Reactで置き換え、違いを体感する
 
